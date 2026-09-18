@@ -36,8 +36,25 @@ process. This gave me the table (from the loom process) where I have found the n
 is unaccounted for, by patron E.K. The person who did this work was not a machine, and initialed E.K. 
 They were trained and intentional in this programming as they deliberately made their program
 an orphan whose information could not be obtained from the original parent.
-| 4: |  |  |  |
-| 4: |  |  |  |
+| 4: |  9|  9|  26| 14 15 * * * $HOME/enginehouse/machinery/amendment-314.sh # Dispatch Board Amendment No. 314 — by order of ███
+#              Moved, seconded, and carried without division.
+#                                        By order of ███  . Only a human could've written the 
+amendment process so well. They would have to drop their pride of the guild (and as a professional)
+to amend such processes in a sloppy or informal manner to fake their identity. They will not do this,
+but instead have at least covered their name from being seen.This is not the way to hurt the house,
+but it does make the loom look bad in public. Perhaps the human is attempting to make the machine
+appear to fail more than it should, such that the guild should need to hire more self-computers again.
+That might be the perfect solution for a fired computer who currently resides out of a job.
+| 5: | 9 |  16|26  | computed loss, million gallons .. 0.518
+  district balance, pounds ........ 214.08  (computed engine)
+  as opposed to: computed loss, million gallons .. 0.517
+  district balance, pounds ........ 214.06 (measured fair copy)
+  My figures from adding (with awk and on paper to save the last decimal place) the culvert
+  losses and district balances: 0.5170 loss, 214.060 balance.
+  The annex's closing line (IX) : entered fair, in ink, from the working papers
+  I believe the issue stems from a rounding error. Perhaps rounding before adding.
+  The processes move together in the same way and proportionate size, making them 
+  correspondent and perhaps linear processes that run very similarly.
 | 4: |  |  |  |
 | 4: |  |  |  |
 | 4: |  |  |  |
@@ -74,6 +91,10 @@ Their motive, I am still unsure of. I don't think they are trying to hurt the ma
 appears to be well done, and not a bug), but wonder why their work is hidden. My best guess is'
 they are out of a job and somehow want to generate revenue either through payroll from the machine
 or by taking some credit for it upon its release that will grant ownership/fame to generate income.
+There appears to be many small errors or inconsistencies within many of the engines functions, yet
+I am not entirely sure if the 'dilligent servant' is trying to solve these, or has secretly hid them
+in.
+
 ---
 
 *Tip: if two weeks' findings seem to point the same direction, say so
