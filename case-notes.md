@@ -55,7 +55,21 @@ That might be the perfect solution for a fired computer who currently resides ou
   I believe the issue stems from a rounding error. Perhaps rounding before adding.
   The processes move together in the same way and proportionate size, making them 
   correspondent and perhaps linear processes that run very similarly.
-| 4: |  |  |  |
+| 6: |  9| 21 |26  | Oddly enough, the name spot for the 1849 UID declares that is does not
+have a name, only a number. Strange it would have a name spot if no name could be given.
+held by, uid ..... 1849
+session opened: 1851-09-18 18:40
+taken: 1851-09-21 04:12
+ holder present ... no. Nothing of that hand is on the floor, and
+                     nothing of that hand is running.
+Roll's description field: computator:x:1849:100:Computing Room corps, pending archive transfer:/home/computator:/usr/sbin/nologin
+For a lock to outlive the holder, the holder must have had an error or was unexpectedly terminated. It might
+also have just not provided a function to unlock the CPU after it finished. Keeping the records
+in separate places helps the culprit behind the machine questioning because the user has to dig
+harder to find all of the information. Not much work generally happens this early, but perhaps
+setup for the machine's running of the day. The chief Enginewright Marlowe should oversee this work. 
+Based on these times, someone must be coming shortly before and after the workday is complete to edit
+the machine, unless they are an inside worker who has been making unauthorized changes this entire time.
 | 4: |  |  |  |
 | 4: |  |  |  |
 | 4: |  |  |  |
@@ -93,7 +107,7 @@ they are out of a job and somehow want to generate revenue either through payrol
 or by taking some credit for it upon its release that will grant ownership/fame to generate income.
 There appears to be many small errors or inconsistencies within many of the engines functions, yet
 I am not entirely sure if the 'dilligent servant' is trying to solve these, or has secretly hid them
-in.
+in. Whatever the case, they have been working odd hours and covered their tracks well.
 
 ---
 
