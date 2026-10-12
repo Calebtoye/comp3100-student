@@ -70,7 +70,26 @@ harder to find all of the information. Not much work generally happens this earl
 setup for the machine's running of the day. The chief Enginewright Marlowe should oversee this work. 
 Based on these times, someone must be coming shortly before and after the workday is complete to edit
 the machine, unless they are an inside worker who has been making unauthorized changes this entire time.
-| 4: |  |  |  |
+| 7: |  9|  30| 26 | day .............. Saturday, 26 September 1851
+
+  Northgate ........ hold taken 1851-09-26 18:51:07
+  Waterside ........ hold taken 1851-09-26 18:51:21
+  Old Quarter ...... hold taken 1851-09-26 18:51:35
+  Kiln Row ......... hold taken 1851-09-26 18:51:49
+  
+   Rule 2. The duty enginewright files a release order naming ONE box, and
+     one only: the box whose claim is youngest -- that is, the box that
+     took its hold last. It has held its lever the shortest while, and
+     so it has the smallest share of the ring's work to lose by standing
+     back.
+     
+     Kiln Row     release order honoured. Lever back to normal; waiting its turn.
+  This does not appear to be an accident because all trains were to jam exactly 14 seconds
+  after each other. Very precise, unlike most accidents. The manual was updated 3 days before the
+  order, meaning that the machine should have known how to avoid this error. It does go to
+  show that the manual is for humans to set up the machine, rather than the machine to interpret itself.
+  Only a knowledgeable computer would know this regarding a signal frame, and this knowledge
+  could allow them to really stop up the machine's work.
 | 4: |  |  |  |
 | 4: |  |  |  |
 | 4: |  |  |  |
