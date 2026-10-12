@@ -114,8 +114,8 @@ it under *Academic integrity* and *Use of AI tools*.
 - *(example)* Used an AI assistant to explain what `EAGAIN` means in the trace.
 
 *Nothing to report? Write "None" — that's a perfectly normal week.*
-
+None
 ## Time spent
 
-Roughly how long this took, start to finish: _______ hours
+Roughly how long this took, start to finish: ___2.5____ hours
 *No wrong answer — this just helps calibrate future work orders.*

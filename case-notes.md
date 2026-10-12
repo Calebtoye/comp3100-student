@@ -90,7 +90,7 @@ the machine, unless they are an inside worker who has been making unauthorized c
   show that the manual is for humans to set up the machine, rather than the machine to interpret itself.
   Only a knowledgeable computer would know this regarding a signal frame, and this knowledge
   could allow them to really stop up the machine's work.
-| 4: |  |  |  |
+| 8: |  10| 14 |  26|
 | 4: |  |  |  |
 | 4: |  |  |  |
 | 4: |  |  |  |
