@@ -90,7 +90,18 @@ the machine, unless they are an inside worker who has been making unauthorized c
   show that the manual is for humans to set up the machine, rather than the machine to interpret itself.
   Only a knowledgeable computer would know this regarding a signal frame, and this knowledge
   could allow them to really stop up the machine's work.
-| 8: |  10| 14 |  26|
+| 8: |  10| 14 |  26| store-siphon: 52 blocks drawn from the Store; none returned.
+store-siphon: the cap is reached. Resting. ==862== 0x4AA6C40[72]
+==862== 0x4AA6CD0[38]
+==862== 0x4AA6D40[36]
+==862== 0x4AA6DB0[71]1:/* store-siphon -- draws from the Store and keeps what it draws.  -- E.K. */
+6:/* Never more than this. The Engine shall not want for a block on my account.  -- E.K. */
+13:/* The draft is kept in cipher on paper; the Store keeps the fair copy.  -- E.K. */
+61:/* A fair copy is never written over. A new block for every hand.  -- E.K. */
+E.k. has ensured these lines stay leaked because he wants them to be noticed. The cap prevents
+more data from being allocated. This means the engine can only borrow as much data that the store
+allows to be rented. Next I would want to explore the draw-block malloc, and I would follow
+a similar process of reading the lines with vgdb, monitor leak check, and x/s.
 | 4: |  |  |  |
 | 4: |  |  |  |
 | 4: |  |  |  |
