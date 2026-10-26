@@ -90,7 +90,7 @@ the machine, unless they are an inside worker who has been making unauthorized c
   show that the manual is for humans to set up the machine, rather than the machine to interpret itself.
   Only a knowledgeable computer would know this regarding a signal frame, and this knowledge
   could allow them to really stop up the machine's work.
-| 8: |  10| 14 |  26| store-siphon: 52 blocks drawn from the Store; none returned.
+| 9: |  10| 14 |  26| store-siphon: 52 blocks drawn from the Store; none returned.
 store-siphon: the cap is reached. Resting. ==862== 0x4AA6C40[72]
 ==862== 0x4AA6CD0[38]
 ==862== 0x4AA6D40[36]
@@ -102,7 +102,41 @@ E.k. has ensured these lines stay leaked because he wants them to be noticed. Th
 more data from being allocated. This means the engine can only borrow as much data that the store
 allows to be rented. Next I would want to explore the draw-block malloc, and I would follow
 a similar process of reading the lines with vgdb, monitor leak check, and x/s.
-| 4: |  |  |  |
+| 10: | 10 |  21|  26| BRASSBRIDGE ENGINEHOUSE -- OLD COMPUTING ROOM
+Preserved records of the computer corps, held whole for the
+Exhibition archive, uncut, as the archivist received them.
+  THE CHIEF COMPUTER'S RECORD
+  KUREOS, I. M. -- Chief Computer, retired without pension, 1849.
+  DESK-MARK ROSTER
+  E.K. = East gallery, desk K -- the Chief Computer's station.
+  Held by KUREOS, I. M., 1830-1849.
+  WIND-DOWN ROTA
+THISTLEWOOD, N. -- seconded 1848; desk K, East gallery, at the wind-down.
+  -- entered by the archivist. No conclusion is drawn.
+
+Name:   record-keeper
+PPid:   1
+Uid:    1849    1849    1849    1849
+VmSize:     3584 kB
+VmRSS:       284 kB
+
+72edf3c33000-72edf3d33000 ---p 00000000 00:00 0
+
+
+
+  
+The final line:  THISTLEWOOD, N. -- seconded 1848; desk K, East gallery, at the wind-down.
+The storeroom could request 256 pages for free because it was requesting virtual memory and
+not physical memory. These pages would not affect physical memory until the first touch
+as the machine is designed that way (demand-paging). A page fault occurs at this touch to
+signal the memory being touched and becoming a resident (hardware address) in the RAM. The
+second fault costs nothing because these pages have already been touched and no longer request
+a resident spot in RAM. In the circumstance of the glutton, the governor was right to kill the
+process as it was consuming all data with little benefit. I would prefer a real server be able
+to have caps in place but not to kill a process unless it was a malfunctioning process as it could
+hinder the program from running correctly. Instead of killing it, I would prefer it to be blocked
+for me to evaluate, although I would have to place GDB and valgrind checks in place to watch
+data leaks and CPU usage which would slow down my processes total runtime.
 | 4: |  |  |  |
 | 4: |  |  |  |
 | 4: |  |  |  |
@@ -137,7 +171,8 @@ they are out of a job and somehow want to generate revenue either through payrol
 or by taking some credit for it upon its release that will grant ownership/fame to generate income.
 There appears to be many small errors or inconsistencies within many of the engines functions, yet
 I am not entirely sure if the 'dilligent servant' is trying to solve these, or has secretly hid them
-in. Whatever the case, they have been working odd hours and covered their tracks well.
+in. Whatever the case, they have been working odd hours and covered their tracks well. It turns out,
+E.K. is a location, not a name, yet this will help guide us to the name.
 
 ---
 
