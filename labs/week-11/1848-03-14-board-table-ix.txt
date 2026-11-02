@@ -1,0 +1,31 @@
+To the Honourable the Board of the Waterworks
+14 March 1848
+
+Gentlemen,
+
+I beg leave to lay before the Board a small matter of method in the
+Engine's working of Table IX, which I fear will not stay small.
+
+The Engine rounds each culvert loss and each district balance to the
+place the Table prints, and only then adds them. The computers have
+always added first and rounded once, at the foot of the column. The
+two methods agree only by luck. Where a figure ends in a five, the
+Engine's way rounds it up, and every such figure adds its half to the
+total. In the December quarter last I count two culvert figures and
+four district figures so placed: the Engine's loss stands one
+thousandth too high and its balance two pence too high, both in the
+same direction, as a method errs and a slip of the pen does not.
+
+The sums are not large. The habit is. A table that is wrong by a rule
+is wrong in every quarter it is used, and will be trusted the more for
+being consistent.
+
+I would ask that Table IX be summed before it is rounded, as the
+Guild's rule has always required, and that a computer check the foot
+of each quarter by hand until it is.
+
+I have the honour to remain, Gentlemen,
+your diligent servant,
+
+I. M. Kureos, Chief Computer
+E.K.

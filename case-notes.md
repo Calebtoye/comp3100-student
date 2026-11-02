@@ -137,10 +137,47 @@ to have caps in place but not to kill a process unless it was a malfunctioning p
 hinder the program from running correctly. Instead of killing it, I would prefer it to be blocked
 for me to evaluate, although I would have to place GDB and valgrind checks in place to watch
 data leaks and CPU usage which would slow down my processes total runtime.
-| 4: |  |  |  |
-| 4: |  |  |  |
-| 4: |  |  |  |
-| 4: |  |  |  |
+| 11: | 10 |  26| 26 | Type|Weekday|Date|Time|Page
+-rw-r--r-- 1 ubuntu ubuntu 632 Wed 2026-09-16 19:22:05 table-ix-1848-q1.txt
+-rw-r--r-- 2 ubuntu ubuntu 631 Fri 2026-09-18 19:07:40 table-ix-1848-q2.txt
+-rw-r--r-- 1 ubuntu ubuntu 636 Wed 2026-09-23 19:36:12 table-ix-1848-q3.txt
+-rw-r--r-- 1 ubuntu ubuntu 635 Wed 2026-10-14 19:41:27 table-ix-1848-q4.txt
+The clocks agree across l, lu, lc, but differ based on the page.
+HOUSE RULE. The ledger halls and the reading room close at the
+bell, six o'clock (18:00). Visiting days are Wednesdays and Fridays.
+> WATERWORKS -- TABLE IX -- MARCH QUARTER, 1848
+> Brassbridge Waterworks, ledger of the quarter
+4c4,5
+< Gentlemen,
+---
+>   reservoir head, feet ............ 39.86
+>   mains draw, million gallons ..... 7.940
+6,7c7,16
+< I beg leave to lay before the Board a small matter of method in the
+< Engine's working of Table IX, which I fear will not stay small.
+< I have the honour to remain, Gentlemen,
+< your diligent servant,
+<
+< I. M. Kureos, Chief Computer
+< E.K.
+
+In order to permanently lose the data in the file, it would have to be overwritten or manually
+completely deleted (wiped). The user chose not to do this, and must want this message to be seen by 
+someone. The clocks say the time of deletion and what was deleted, but not the user who deleted them
+or if the data is still accessible. 
+Time deleted
+    23   1000 100644    632      1/     1 Wed Sep 16 19:22:05 2026
+    24   1000 100644    631      1/     1 Fri Sep 18 19:07:40 2026
+    25   1000 100644    636      1/     1 Wed Sep 23 19:36:12 2026
+    26   1000 100644    635      1/     1 Wed Oct 14 19:41:27 2026
+    15   1000 100644   1242      2/     2 Fri Dec 13 14:45:52 1901
+    16   1000 100644    882      1/     1 Fri Dec 13 14:45:52 1901
+    17   1000 100644    852      1/     1 Fri Dec 13 14:45:52 1901
+    A letter says what was written, but not why it was written.
+| 12: |  |  |  |
+| 13: |  |  |  |
+| 14: |  |  |  |
+| 15: |  |  |  |
 
 
 Add more rows as the weeks go on. Keep entries short — a sentence or

@@ -1,0 +1,19 @@
+WATERWORKS -- TABLE IX -- JUNE QUARTER, 1848
+Brassbridge Waterworks, ledger of the quarter
+
+  reservoir head, feet ............ 42.05
+  mains draw, million gallons ..... 8.415
+
+  CULVERT LOSSES -- million gallons
+    Culvert I ..................... 0.1745
+    Culvert II .................... 0.2015
+    Culvert III ................... 0.1390
+
+  DISTRICT BALANCES -- pounds
+    Northgate ..................... 53.105
+    Waterside ..................... 60.485
+    Old Quarter ................... 44.255
+    Kiln Row ...................... 55.015
+
+  computed loss, million gallons .. 0.515
+  district balance, pounds ........ 212.86
